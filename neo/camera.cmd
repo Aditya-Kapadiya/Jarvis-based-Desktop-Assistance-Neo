@@ -1,0 +1,1 @@
+start microsoft.windows.camera:

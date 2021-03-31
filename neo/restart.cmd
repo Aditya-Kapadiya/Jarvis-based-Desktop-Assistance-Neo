@@ -1,0 +1,1 @@
+shutdown -r -t 30 -c "System restart in 30s"

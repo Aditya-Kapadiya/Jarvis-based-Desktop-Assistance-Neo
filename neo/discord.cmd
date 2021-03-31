@@ -1,0 +1,1 @@
+C:\Users\kapad\AppData\Local\Discord\Update.exe --processStart Discord.exe

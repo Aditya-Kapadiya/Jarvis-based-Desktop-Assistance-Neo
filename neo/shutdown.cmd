@@ -1,0 +1,1 @@
+shutdown -s -t 30 -c "System shutdown in 30s"

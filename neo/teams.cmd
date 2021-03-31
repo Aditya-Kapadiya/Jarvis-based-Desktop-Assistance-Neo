@@ -1,0 +1,1 @@
+C:\\Users\\kapad\\AppData\\Local\\Microsoft\\Teams\\Update.exe --processStart "Teams.exe"
